@@ -4,4 +4,4 @@
 
 This is my website for HIST 698
 
-[Blog Post 1] (http://nrholterman.github.io/blogpost1)
+[Blog Post 1](http://nrholterman.github.io/blogpost1)
