@@ -1,4 +1,4 @@
-# Nicholas's First Website
+# Nicholas's Completely Professional, Scholarly Website
 
 ## Welcome, *Lucky* Reader
 
