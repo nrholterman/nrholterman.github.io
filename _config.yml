@@ -1,0 +1,17 @@
+
+title: N.R. Holterman
+email: nrholt@umich.edu
+description: > # Hwæt! This is my professional and educational website. Welcome!
+baseurl: "/nrholterman.github.io" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: NRHolterman
+github_username:  nrholterman
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
