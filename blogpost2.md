@@ -1,4 +1,4 @@
-# *Blog Post 2*
+# Blog Post 2
 
 ## 19 January 2017
 
