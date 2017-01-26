@@ -1,3 +1,9 @@
+---
+layout: page
+title: Curriculum Vitae
+permalink: /CV/
+---
+
 **Nicholas R. Holterman**
 
 **Department of Romance Languages and Literatures**
