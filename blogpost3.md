@@ -5,7 +5,7 @@ permalink: /Blog Post 3/
 ---
 # Blog Post 3
 
-# 26 January 2017
+## 26 January 2017
 
 I really enjoyed reading Lupton’s Thinking with Type, and it was really my first experience with typography in any strict sense. Of course I’ve thought about different fonts in my own work mainly because I now have a visceral reaction to seeing and using Times New Roman, but also because I think different fonts and typefaces (I still don’t quite grasp the difference there, despite Lupton’s efforts to correct this mistake) create different moods/effects for the reader. That being said, Lupton’s book certainly drew my attention to other aspects of design that are important to a work other than font/type. Within the academy, I feel that there is a certain drive toward uniformity—especially in formatting texts for specific publishing houses or presses—that should be expanded. Almost obviously, I believe that each discipline or field, or perhaps even on a book-by-book or article-by-article basis, should tailor the design of their works. It shouldn’t necessarily be the case that an history of art monograph about Titian has the same design as a medieval French literature monograph just because they are both published by The University of Chicago Press, for instance.
 
