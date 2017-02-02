@@ -6,7 +6,7 @@ categories:
 ---
 # Hwæt!
 
-This is my constantly changing and improving website for HIST 698.
+Welcome to my website for HIST 698.
 
 [Blog Post 1](http://nrholterman.github.io/blogpost1)
 
