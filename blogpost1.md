@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog Post 1
-permalink: /Blog Post 1/
 ---
 
 # Blog Post 1
