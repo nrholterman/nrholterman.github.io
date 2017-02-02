@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: page
 title: Blog Post 3
 permalink: /Blog Post 3/
 ---
