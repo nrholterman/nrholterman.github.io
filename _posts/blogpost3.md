@@ -1,3 +1,8 @@
+---
+layout: Post
+title: Blog Post 3
+permalink: /Blog Post 3/
+---
 # Blog Post 3
 
 # 26 January 2017
