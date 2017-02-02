@@ -4,9 +4,7 @@ title: "N.R. Holterman"
 date: 2017-01-19
 categories:
 ---
-# Nicholas's *Completely* Professional and Scholarly Website
-
-## Welcome, Lucky Reader!
+# Hwæt!
 
 This is my constantly changing and improving website for HIST 698.
 
