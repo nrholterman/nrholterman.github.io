@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 698-Portfolio
-permalink: /698-Portfolio/
+title: Portfolio
+permalink: /Portfolio/
 ---
 This page is under construction!
