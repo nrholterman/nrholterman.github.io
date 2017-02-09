@@ -1,3 +1,11 @@
+---
+layout: page
+title: Blog Post 4
+---
+# Blog Post 4
+
+## 9 February 2017
+
 This unit on GIS is probably the one about which I am most excited. It might be because, as a medievalist, I have a huge desire to visualize the Middle Ages. Until now, I have really thought about the connection between narrative time and geography in relation to medieval literature, so thinking about how I can use language from the texts and represent places—real or fictional—is really excited.
 
 I realize these projects are in a slightly different vein, but the Six Degrees of Francis Bacon and the Mapping the Republic of Letters are two great examples of network visualization that also incorporate a mapping feature. Of course, I think it is safe to say that where there is a network there is geography, and vice versa. I believe, and as Gregory and Hardie demonstrated, mapping with GIS seems to be particularly useful when dealing with pre-modern text sources. Perhaps it is because of the different culture value medieval maps held that they are not necessarily reliable as geographic documentation (I’m thinking here of the Hereford Mappa Mundi). Since we get our information from literary and archaeological sources, and since I am not an archaeologist, it is invaluable to be able to create visualizations of places and spaces from language. There are some really interesting projects happening on the Global Middle Ages website, which could help show how mapping is being used in current medieval scholarship (and it’s also the website I helped edit).
