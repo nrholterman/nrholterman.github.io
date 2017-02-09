@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 Welcome to my website for HIST 698.
