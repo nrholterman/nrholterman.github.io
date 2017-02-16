@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Portfolio
 ---
 This page is under construction!
