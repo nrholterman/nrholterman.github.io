@@ -1,4 +1,31 @@
 @charset "UTF-8";
+nav ul {
+  font-size: 18.5px;
+  list-style: none;
+  margin: 50px;
+  display: block;
+}
+
+nav li{
+  display: inline;
+  margin-right: 50px;
+  margin-left: 50px;
+
+}
+nav a {
+  text-decoration: none;
+}
+
 nav {
-  font-size: 10
+  margin: 0 auto;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80em;
+  border: 1px solid green;
+}
+.nav {
+  width: 80em;
+  margin: 0 auto;
 }
