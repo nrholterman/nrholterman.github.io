@@ -57,14 +57,16 @@ margin-left: 50px:
 
 .heading {
   font-family: 'IM Fell English SC', serif;;
-  font-size: 24px;
+  font-size: 50px;
 }
 
 .heading {
   color: #84baa4;
-  font-size: 30px;
   font-style: bold;
-  margin: 20px;
+  margin: 0;
+  text-align: center;
+  background-color: #293f50;
+  padding: 1em
 }
 
 .footer {
