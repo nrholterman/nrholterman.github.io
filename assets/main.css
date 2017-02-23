@@ -3,7 +3,7 @@ nav ul {
   font-family: 'Noto-serif', serif;
   font-size: 24px;
   list-style: none;
-  margin: 20px;
+  margin: 10px;
   display: block;
   text-align: center;
 }
@@ -79,8 +79,8 @@ margin-left: 50px:
     position: sticky;
     padding: 1rem;
     background-color: none;
-    text-align: right;
-    margin: 0 auto;
+    text-align: center;
+    margin: 0 auto
 }
 
 .footer ul{
