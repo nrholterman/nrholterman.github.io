@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-
-
-## 11 January 2017
+### 11 January 2017
 
 The prompt for this week, much like the values laid out in Spiro’s article, are exceptionally broad. Also, I would just like to insert a disclaimer here and note that while I consider myself a historian of literature, I have relatively little training in historiography, and thus believe I am not exactly qualified to talk about the digital humanities values, according to Spiro, and how they should or should not apply to history. Please forgive my literary inclination and flavor in my response. That being said, let’s begin:
 

@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-## 19 January 2017
+### 19 January 2017
 
 For the most part, this week’s readings resonated pretty deeply with me. In particular, the articles about Twitter touched most directly on my desires and fears as an Academic-in-Training and Millennial Medievalist. As far as Twitter is concerned, I used to have two separate accounts—one personal and one more academic—when I was transitioning into grad school, but I ultimately merged them into one. Last year, when I taught a writing course around the theme of race and criminal justice, I had my students create their own accounts so that they would have more readily available sources from news sites, journalists, politicians, etc., all of which is really important when you need to keep updated on current events. Also, I thought it was a really good way for students to borrow ideas and brainstorm with each other, since Canvas discussions and email can be really prohibitive, clunky, and uncomfortable. A professor I knew at UT-Austin used Twitter up on a projector while she was lecturing so that she could answer students’ questions in real time from her feed. I think this is really engaging way to keep students interested in lecture, although I can see the potential drawbacks and distractions it may present. Unlike this professor, I really used Twitter as a resource for outside the classroom.
 
