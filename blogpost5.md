@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Review of Sagngrunnur GIS Project
 ---
 # Review of Sagngrunnur GIS Project
 

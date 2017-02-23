@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Blog Post 2
+layout: default
 ---
 
 ## 19 January 2017

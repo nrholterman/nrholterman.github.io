@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Blog Post 1
+layout: default
 ---
 
 
