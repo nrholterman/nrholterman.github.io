@@ -77,10 +77,10 @@ margin-left: 50px:
 
 .footer {
     position: sticky;
-    padding: 1rem;
+    padding: 1em;
     background-color: none;
     text-align: center;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 .footer ul{
