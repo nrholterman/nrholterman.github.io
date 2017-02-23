@@ -5,17 +5,12 @@ title: Curriculum Vitæ
 
 **Nicholas R. Holterman**
 
-Department of Romance Languages and Literatures
-
-University of Michigan
-
-812 East Washington Street
-
-Ann Arbor, MI, USA 48109
-
-+1 (518) 894-9328
-
-nrholt@umich.edu
+Department of Romance Languages and Literatures  
+University of Michigan  
+812 East Washington Street  
+Ann Arbor, MI, USA 48109  
++1 (518) 894-9328  
+nrholt@umich.edu  
 
 **EDUCATION**
 
