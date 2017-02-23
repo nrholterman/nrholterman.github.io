@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Review of Sagngrunnur GIS Project
+### Review of Sagngrunnur GIS Project
 
 I wanted to talk a bit about the GIS project that I looked at for this week, which is called Sagngrunnur. This project began as a database of Icelandic folk legends in 1999 by Professor Terry Gunnell from the University of Iceland—who actually translated into English a lot of the Sagas that I have been reading for my course this semester— Bo Almqvist at University College Dublin (to whom the project is now dedicated following his death in 2014), and Rósa Þorsteinsdóttir from the Arnamangæan Institute (Denmark). The welcome page of the site notes that, “This new version of the database (from 2014) is the end result of an intensive re-structuring of the database which now includes geographical mapping of a large number of the place names in the database.” It should also be noted that the re-design and mapping was carried out my MA work done by Trausti Dagsson.
 
