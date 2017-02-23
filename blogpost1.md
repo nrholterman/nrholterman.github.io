@@ -3,7 +3,6 @@ layout: page
 title: Blog Post 1
 ---
 
-# Blog Post 1
 
 ## 11 January 2017
 

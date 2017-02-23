@@ -1,21 +1,21 @@
 ---
-layout: page
-title: Curriculum Vitae
+layout: default
+title: Curriculum Vitæ
 ---
 
 **Nicholas R. Holterman**
 
-**Department of Romance Languages and Literatures**
+Department of Romance Languages and Literatures
 
-**University of Michigan**
+University of Michigan
 
-**812 East Washington Street**
+812 East Washington Street
 
-**Ann Arbor, MI, USA 48109**
+Ann Arbor, MI, USA 48109
 
-**+1 (518) 894-9328**
++1 (518) 894-9328
 
-**nrholt@umich.edu**
+nrholt@umich.edu
 
 **EDUCATION**
 

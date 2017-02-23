@@ -2,8 +2,6 @@
 layout: page
 title: Blog Post 4
 ---
-# Blog Post 4
-
 ## 9 February 2017
 
 This unit on GIS is probably the one about which I am most excited. It might be because, as a medievalist, I have a huge desire to visualize the Middle Ages. Until now, I have really thought about the connection between narrative time and geography in relation to medieval literature, so thinking about how I can use language from the texts and represent places—real or fictional—is really excited.

@@ -2,12 +2,15 @@
 layout: default
 title: Portfolio
 ---
-This page is under construction!
 
-[Blogpost 1](blogpost1.html)
+Here are some blogposts, thoughts, and miscellany that hopefully give some insight into my work:
 
-[Blogpost 2](blogpost2.html)
+[Thinking Broadly About DH](blogpost1.html)
 
-[Blogpost 3](blogpost3.html)
+[Getting Digital in the Academy](blogpost2.html)
 
-[Blogpost 4](blogpost4.html)
+[Typface vs. Font: Like I Know the Difference](blogpost3.html)
+
+[Here There Be Maps!](blogpost4.html)
+
+[My Review of Sagnagrunnur](blogpost5.html)
