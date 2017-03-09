@@ -4,10 +4,6 @@ layout: default
 ### Mining for Literary Gold
 #### 9 March 2017
 
-Mining for Literary Gold
-9 March 2017
-
-
 My first exposure to text mining was in my first year as a graduate student in the English department at the University of Texas at Austin. We were in our pro-seminar, methodologies course and talking about Franco Moretti, whom I had heard of before, but didn’t know too much about other than the usual complaint about his obsession with big data. We were talking about his work in conjunction with the voluminous tomes of Victorian England and how text mining was a really “useful” tool when trying to analyze change in language use over time. This reminded me of the moment in Ted Underwood’s post “Seven ways humanists are using computers to understand text,” when he says that text mining for certain words in order to read in the affective romanticism set forth in Wordworth’s poetry can be, well, fraught. It seems unlikely, or at least dubious, that measuring the occurrence of one or several words in a text can really tell us all that much about the work itself, other than the author’s proclivity for using that word. I will admit that while I will search through a stanza or a paragraph for repeated words, it seems to be a whole different beast.
 
 Perhaps it’s because I’m a medievalist that I’m somewhat skeptical of text mining. It could be that because I work with dual-facing translations of medieval works (ranging from Latin, French, and English, and sometimes all three), or it could be that edition I work from can be from one manuscript or from several, that I resist the idea of using words’ occurrences as a basis for investigating a text. That being said, I can absolutely see the utility of text mining, or at least the interest it garners, for works of literatures after the advent of printing. I apologize for periodizing, but I think that there’s something to be said about printed texts (not that there was anything close to uniform orthography after the printing press).
