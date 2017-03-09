@@ -14,3 +14,5 @@ Here are some blogposts, thoughts, and miscellany that hopefully give some insig
 [Here There Be Maps!](blogpost4.html)
 
 [My Review of Sagnagrunnur](blogpost5.html)
+
+[Mining for Literary Gold](blogpost6.html)
