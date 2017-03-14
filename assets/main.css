@@ -64,7 +64,8 @@ margin-left: 50px:
 .heading {
   font-family: 'IM Fell English SC', serif;;
   font-size: 70px;
-  text-decoration: underline overline;
+  text-decoration: overline;
+  text-decoration-style: double;
 }
 
 .heading {
