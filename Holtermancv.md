@@ -92,6 +92,8 @@ Austin, Texas, 1/2016-5/2015
 
 **Papers given:**
 
+> • Early Modern Colloquium Graduate Conference: Body Language, Bawdy Talk, University of Michigan, Ann Arbor, MI: “The Sound of Love: Orality and Intimacy of Hearing in Floire et Blanchefleur, 3/2017.  
+> • Charles F. Fraker Conference, University of Michigan, Ann Arbor, MI: “Manual Labor: Materiality and the Work of Reading Graphic Novels and Medieval Manuscripts,” 2/2017.  
 > • ‘Medievalism and Video Games Symposium,’ University of California,
 Davis: “Genre, Medievalism, and Fantastic Worlds in *Aucassin et Nicolette* and
 Lionhead Studios’ *Fable*,” 5/2015.  
