@@ -125,7 +125,7 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Halant", serif;
-  color: #778899; }
+  color: #424242; }
 
 
 /* Typography
@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #84baa4; }
+  color: #212121; }
 a:hover {
-  color: #4d665c; }
+  color: #84baa4; }
 
 
 /* Buttons

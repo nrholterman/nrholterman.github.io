@@ -12,8 +12,8 @@ nav li {
   display: inline;
   margin-right: 15px;
   margin-left: 15px;
-
 }
+
 nav a {
   text-decoration: none;
   color:
@@ -27,7 +27,6 @@ nav {
   margin: 0 auto;
   background-color: none;
   padding: .5em;
-
 }
 
 .wrapper {
@@ -60,27 +59,44 @@ margin-left: 50px:
 }
 
 .heading {
-  font-family: 'IM Fell English SC', serif;;
+  font-family: 'IM Fell English SC', serif;
   font-size: 70px;
   text-decoration: none;
-
+  z-index: 100;
+  position: relative;
+  color: #212121;
+  font-style: none
 }
 
 .heading {
-  color: #84baa4;
-  font-style: bold;
   margin: 0;
   text-align: center;
-  background-color: #334147;
-  padding: .75em;
-  border-bottom: solid .05em
+  background-color: #FFFFFF;
+  padding: 0em;
 
 }
-.subheading {
-  font-family: 'IM Fell English SC', serif;;
-  font-size: 20px;
-  text-decoration: underline;
-  color: #EEEEEE;
+
+.heading img {
+    width:100%;
+    max-width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    margin-top: 0;
+    margin-bottom: 0;
+    opacity: .2;
+}
+.overlay {
+  position: absolute;
+  top: 1.5em;
+  left:0;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.25);
+  color: #212121;
+
 }
 
 .footer {
@@ -113,7 +129,7 @@ img {
 
 .cv.container {
   margin: 0 auto;
-  padding: 5em
+  padding: 5em;
   font-size: 24px;
   position: absolute;
   text-align: center;
