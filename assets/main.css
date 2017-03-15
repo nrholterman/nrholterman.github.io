@@ -104,6 +104,7 @@ margin-left: 50px;
     background-color: none;
     text-align: center;
     margin: 0 auto;
+    border-bottom: double;
 }
 
 .footer ul{

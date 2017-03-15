@@ -158,7 +158,8 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #212121; }
+  color: #212121;
+  text-decoration: none;}
 a:hover {
   color: #84baa4; }
 
