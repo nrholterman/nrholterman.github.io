@@ -32,14 +32,13 @@ nav {
 .wrapper {
   margin: 0 auto;
   padding: 5em;
-  width: 50em;
+  width: 40em;
   font-size: 20px;
 }
 .nav {
   width: 90em;
   margin: 0 auto;
 }
-
 .CV ul{
   font-family: 'Noto-serif', serif;
   font-size: 18px;
@@ -73,8 +72,6 @@ margin-left: 50px:
   text-align: center;
   background-color: #FFFFFF;
   padding: 0em;
-
-
 }
 
 .heading img {
@@ -89,8 +86,14 @@ margin-left: 50px:
     margin-bottom: 0;
     opacity: .2;
     border-bottom: 2px solid #212121;
-
 }
+
+img {
+  float: right;
+  width: 35%;
+  margin: 20px;
+}
+
 .overlay {
   position: absolute;
   top: 1.5em;
@@ -98,9 +101,6 @@ margin-left: 50px:
   width:100%;
   height:100%;
   color: #212121;
-
-
-
 }
 
 .footer {
@@ -123,12 +123,6 @@ margin-left: 50px:
 .footer li {
   display: inline;
   margin: 1em;
-}
-
-img {
-  float: right;
-  width: 35%;
-  margin: 20px;
 }
 
 .cv.container {

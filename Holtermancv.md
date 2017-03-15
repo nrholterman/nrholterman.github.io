@@ -128,6 +128,7 @@ Campbell’s Monomyth as Found in Lionhead Studios’ *Fable* *III*,” 10/2013.
 
 **PROFESSIONAL AFFILIATIONS**
 
+> • Modern Language Association  
 > • Medieval Academy of America  
 > • International English Honor Society: Sigma Tau Delta  
 > • International Foreign Language Honor Society: Phi Sigma Iota
