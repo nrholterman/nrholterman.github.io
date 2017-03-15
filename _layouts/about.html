@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="heading">
+      <div class="heading.image">
+        <img src="images/manuscript_header.jpg" alt="header image"/>
+        <div class="overlay">
+      ☞ Getting Media(eval) ☜
+    </div>
+      </div>
+    </div>
+
+    <div class="nav">
+      {% include nav.html %}
+    </div>
+      <div class="wrapper ">
+        <div class="aboutimage">
+          <img src="images/me.jpg" alt="picture of me"/>
+        {{ content }}
+      </div>
+      </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
