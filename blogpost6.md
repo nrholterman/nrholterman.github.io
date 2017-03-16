@@ -12,3 +12,24 @@ Just because I think text mining is less appropriate for medieval texts, it woul
 
 One way to achieve my project is absolutely through the use of OCR. Unfortunately for me, OCR correctors or normalizers don’t really exist for medieval script. The reasons behind this are various and sundry, but it is likely, once again, that the dividing factor here is once again is printing. It would be difficult to normalize texts when many hands are involved in the creation and editing of any one manuscript, and each manuscript can contain a bunch of linguistic variations and oddities; not to mention, again, that they mss. I work on are not written in English and are heavily abbreviated. So, while I get really excited to hear about “semi-decent” normalizers or correctors for 18th-century texts, or even early modern printed texts, it’s frustrating that one of the biggest problems an 18th-century work in OCR is the long S. (Also, I can imagine my friend and colleague Paula Curtis agreeing with me, and probably feeling more adamantly, about the lack of OCR programs available for non-English medieval texts, especially since she works with medieval Japanese sources.
 So, to wrap up, I think that text mining is a really cool thing to investigate, and I believe that it can bring new understanding to texts that close reading cannot. For book historians, too, I can imagine it being a great resource. For me, I think text mining would be useful in the future when I inevitably move into the Early Modern period and start looking at different texts. Specifically, my interest in travel narrative might be an interesting starting point for investigating words and their frequency and usage. At this point, however, I’m hard pressed to see any easy, feasible, and in many ways, useful advantages to mining the texts that I work with. As is the case with anything, however, we shall see where I end up, and I am certainly open to trying new methods.
+
+I decided to try my hand at text mining using Voyant:
+
+<img src="images/voyant.jpg" alt="Voyant icon"/>
+
+First I began by choosing Donald Trumps address to Congress from several weeks ago, but I decided that I didn't want my work to condone that type of rhetoric. So, instead, I remained in line with my research and chose to see which terms were most frequently used in *Eiriks saga rauða* ("Erik the Red's Saga") which is one of the sagas I'm analyzing for a paper. I used a plain text version of the saga,which also is available in Norwegian and Old Norse, and copy & pasted the text into Voyant's tool:
+
+<img src="images/VoyantTool.jpg" alt="Voyant Entry"/>
+
+After clicking "Reveal," Voyant presented me with a **lot** of results including a summary of terms and phrases, a world cloud, links between words, trends, and contexts in which frequently used words appear. Here is an example of the word cloud and the trend that Voyant provided:
+
+<img src="images/EiriksSagaWordCloud.jpg" alt="Word Cloud"/>
+<img src="images/EiriksSagaTrends.jpg" alt="Trends">
+
+The word cloud and frequency count were actually really illuminating. In my class, students were saying that when compared with *Grænlendlinga saga* which is the saga paired with *Eiriks saga rauða* in what moderns scholars categorize as the "Vinland Sagas," Eirik the Red doesn't actually appear very much in the text. This affective analysis is contradicted by the fact that "Eirik" occurs 45 times in the text and is the third most frequent word, after "land" and "men." So, if we deconstruct the text, we can see that Eirik is actually very present *textually*, even if he doesn't seem to be as present in the narrative. Perhaps this is a very useful nuance of text mining.
+
+Also, from the word cloud it would seem that "men" are very important in the story because they appear very frequently. And while this is ostensibly true, I believe that the women in *Eiriks saga rauða* are the most interest: Gudrid and Freydis. So in this way, more "valuable" information comes from reading the text.
+
+The trends section is useful if I were to see how frequently a word in the text appears at a certain section. According to Voyant's analysis, "land" was mentioned 17 times in the 7th section. Knowing something about the text, I would say that this is probably where the vikings come to North America and begin naming the various lands, like Markland, Helluland, and Vinland.
+
+At some point, I would like to mine both *Eiriks saga rauða* and *Grænlendina saga* to see how they compare textually, but for now, I will that text mining seems to be a good complement to texts, and an interesting way to complicate how we read, but I don't believe it ought to be the *only* way to approach a textual analysis.
