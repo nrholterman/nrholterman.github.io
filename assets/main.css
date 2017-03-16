@@ -65,7 +65,7 @@ margin-left: 50px;
   background-color: #FFFFFF;
   padding: 1em;
   background-image: url("/images/manuscript_header.jpg");
-  border-bottom: 2px solid;
+  border-bottom: double;
 }
 
 .footer {
