@@ -16,3 +16,5 @@ Here are some blogposts, thoughts, and miscellany that hopefully give some insig
 [☛ My Review of Sagnagrunnur](blogpost5.html)
 
 [☛ Mining for Literary Gold](blogpost6.html)
+
+[☛ Staying on Topic](blogpost7.html)
