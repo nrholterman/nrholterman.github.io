@@ -1,6 +1,7 @@
 ---
-layout: about
+layout: default
 ---
+<img src="/images/me.jpg" alt="picture of me" style="width:35%" align="right"/>
 
 I am a graduate student at the University of Michigan-Ann Arbor. Located in the Department of Romance Languages and Literatures, my research centers on medieval French literature, with an emphasis on travel narratives, Anglo-Norman, borders around Britain, and gender and sexuality.
 

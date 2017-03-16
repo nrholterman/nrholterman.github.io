@@ -2,16 +2,16 @@
 layout: default
 title: Curriculum Vitæ
 ---
+<div class="center-text">
+<b>Nicholas R. Holterman</b> <br/>
 
-**Nicholas R. Holterman**
-
-Department of Romance Languages and Literatures  
-University of Michigan  
-812 East Washington Street  
-Ann Arbor, MI, USA 48109  
-+1 (518) 894-9328  
-nrholt@umich.edu  
-
+Department of Romance Languages and Literatures <br/>  
+University of Michigan <br/>
+812 East Washington Street <br/>
+Ann Arbor, MI, USA 48109 <br/>
++1 (518) 894-9328 <br/>
+nrholt@umich.edu <br/>
+</div>
 **EDUCATION**
 
 **Ph.D. in French literature**, University of Michigan, Ann Arbor, Michigan, In Progress
