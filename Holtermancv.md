@@ -12,6 +12,7 @@ Ann Arbor, MI, USA 48109 <br/>
 +1 (518) 894-9328 <br/>
 nrholt@umich.edu <br/>
 </div>
+
 **EDUCATION**
 
 **Ph.D. in French literature**, University of Michigan, Ann Arbor, Michigan, In Progress
@@ -37,6 +38,8 @@ joint with Université de Montréal, Montreal, Quebec, 8/2009-12/2009
 > • Degree not completed; transferred from program
 
 **TEACHING EXPERIENCE**
+
+**Program Assistant**, *Reading and Writing Fairy Tales*, Reykjavík, Iceland, University of Michigan-Ann Arbor, May 2017.
 
 **Assistant Instructor**, RHE 306 Introductory Writing and Argumentation, Department of Rhetoric and Writing, The University of Texas at Austin, Austin, Texas, 8/2015-5/2016
 
