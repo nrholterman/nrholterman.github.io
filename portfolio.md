@@ -18,3 +18,5 @@ Here are some blogposts, thoughts, and miscellany that hopefully give some insig
 [☛ Mining for Literary Gold](blogpost6.html)
 
 [☛ Staying on Topic](blogpost7.html)
+
+[☛ Networks, Networks, Networks!](blogpost8.html)
