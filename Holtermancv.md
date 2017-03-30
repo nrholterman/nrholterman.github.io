@@ -95,16 +95,21 @@ Austin, Texas, 1/2016-5/2015
 
 **Papers given:**
 
-> • Early Modern Colloquium Graduate Conference: Body Language, Bawdy Talk, University of Michigan, Ann Arbor, MI: “The Sound of Love: Orality and Intimacy of Hearing in Floire et Blanchefleur, 3/2017.  
+> • Early Modern Colloquium Graduate Conference: Body Language, Bawdy Talk, University of Michigan, Ann Arbor, MI: “The Sound of Love: Orality and Intimacy of Hearing in Floire et Blanchefleur, 3/2017.
+
 > • Charles F. Fraker Conference, University of Michigan, Ann Arbor, MI: “Manual Labor: Materiality and the Work of Reading Graphic Novels and Medieval Manuscripts,” 2/2017.  
+
 > • ‘Medievalism and Video Games Symposium,’ University of California,
 Davis: “Genre, Medievalism, and Fantastic Worlds in *Aucassin et Nicolette* and
 Lionhead Studios’ *Fable*,” 5/2015.  
+
 > • Guest lecture on *Sir Gawain and the Green Knight* for Doctor Eric
 Mallin’s ‘Masterworks of British Literature’ course, The University of Texas at Austin, 11/2014.  
+
 > • Vagantes Medieval Graduate Student Conference, The University of Texas
 at Austin, Genitive Genitalia: “The Representation of Possession of Sexual Organs in the
 French Fabliaux as a Reflection of Patriarchal Society,” 3/2014.  
+
 > • 10th Annual Interdisciplinary Conference of the Graduate Association of
 Comparative Literature Students, The University of Texas at Austin: “Fey’ble: Queering Joseph
 Campbell’s Monomyth as Found in Lionhead Studios’ *Fable* *III*,” 10/2013.  
@@ -113,10 +118,13 @@ Campbell’s Monomyth as Found in Lionhead Studios’ *Fable* *III*,” 10/2013.
 
 > • Outstanding TA Award, Department of English, The University of Texas
 > at Austin, 2015
+
 > • Humanities, Arts, Science, and Technology Advanced Collaboratory
 > Scholarship, 2014-2015  
+
 > • Julia Emerson Fisher Walther Fellowship, The University of Texas at
 > Austin, Department of French and Italian, 2013-2014  
+
 > • Fulbright English Teaching Assistant Grant, Luxembourg, 2013-2014
 > (alternate)
 
@@ -131,7 +139,7 @@ Campbell’s Monomyth as Found in Lionhead Studios’ *Fable* *III*,” 10/2013.
 
 **PROFESSIONAL AFFILIATIONS**
 
-> • Modern Language Association  
-> • Medieval Academy of America  
+> • [Modern Language Association](https://www.mla.org/)  
+> • [Medieval Academy of America](http://www.medievalacademy.org/)  
 > • International English Honor Society: Sigma Tau Delta  
 > • International Foreign Language Honor Society: Phi Sigma Iota
