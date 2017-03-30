@@ -15,16 +15,16 @@ nrholt@umich.edu <br/>
 
 **EDUCATION**
 
-**Ph.D. in French literature**, University of Michigan, Ann Arbor, Michigan, In Progress
+**Ph.D. in French literature**, [University of Michigan](http://umich.edu/), Ann Arbor, Michigan, In Progress
 
-**M.A. in English Literature**, The University of Texas at Austin, Austin, Texas 8/2013-5/2015
+**M.A. in English Literature**, [The University of Texas at Austin](http://www.utexas.edu/), Austin, Texas 8/2013-5/2015
 
 > • Thesis: “Chante(fable): Romance, Parody, and the Medieval in *Aucassin et Nicolette* and Lionhead Studios’ *Fable*”  
 > • Thesis supervisors: Doctor Elizabeth Scala and Doctor Daniel
 > Birkholz
 
-**B.S. in French and English Literature**, State University of New York,
-College at Oneonta, Oneonta, New York, 1/2010-5/2013
+**B.S. in French and English Literature**, [State University of New York,
+College at Oneonta](http://suny.oneonta.edu/), Oneonta, New York, 1/2010-5/2013
 
 > • *Summa cum laude*  
 > • Academic Achievement Award, Department of Foreign Languages and Literatures
@@ -32,8 +32,8 @@ College at Oneonta, Oneonta, New York, 1/2010-5/2013
 **DALF C2**, ***Études Françaises***, *Institut de Touraine*, Tours,
 France, 1/2011-4/2011
 
-**B.Ed. in Teaching French as a Second Language**, McGill University
-joint with Université de Montréal, Montreal, Quebec, 8/2009-12/2009
+**B.Ed. in Teaching French as a Second Language**, [McGill University](http://www.mcgill.ca/)
+joint with [Université de Montréal](http://www.umontreal.ca/), Montreal, Quebec, 8/2009-12/2009
 
 > • Degree not completed; transferred from program
 
