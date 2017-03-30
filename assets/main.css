@@ -68,6 +68,14 @@ margin-left: 50px;
   border-bottom: 2px solid;
 }
 
+.heading h5 {
+  margin:0;
+}
+
+.heading h6 {
+  margin:0;
+}
+
 .footer {
     position: sticky;
     padding: 0;
