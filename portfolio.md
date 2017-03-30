@@ -20,3 +20,5 @@ Here are some blogposts, thoughts, and miscellany that hopefully give some insig
 [☛ Staying on Topic](blogpost7.html)
 
 [☛ Networks, Networks, Networks!](blogpost8.html)
+
+[☛ Everyone's A Critic](blogpost9.html)
