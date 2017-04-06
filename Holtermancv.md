@@ -29,7 +29,7 @@ College at Oneonta](http://suny.oneonta.edu/), Oneonta, New York, 1/2010-5/2013
 > • *Summa cum laude*  
 > • Academic Achievement Award, Department of Foreign Languages and Literatures
 
-**DALF C2**, ***Études Françaises***, *Institut de Touraine*, Tours,
+**DALF C2**, ***Études Françaises***, [*Institut de Touraine*](http://www.institutdetouraine.com/fr), Tours,
 France, 1/2011-4/2011
 
 **B.Ed. in Teaching French as a Second Language**, [McGill University](http://www.mcgill.ca/)
@@ -49,11 +49,11 @@ Austin, Texas
 Facilitated two discussion sections per week to accompany course
 lecture, provide support for students, assess student coursework, and mark exams.
 
-> • “Banned Books and Novel Ideas,” for Doctor Snehal Shingavi,
+> • “Banned Books and Novel Ideas,” for [Doctor Snehal Shingavi](http://liberalarts.utexas.edu/english/faculty/sas347),
 > 6/2015-7/2015  
-> • “Masterworks of American Literature,” for Doctor Coleman Hutchison
+> • “Masterworks of American Literature,” for [Doctor Coleman Hutchison](http://liberalarts.utexas.edu/english/faculty/ch8837)
 > 1/2015-5/2015  
-> • “Masterworks of British Literature,” for Doctor Eric Mallin,
+> • “Masterworks of British Literature,” for [Doctor Eric Mallin](http://liberalarts.utexas.edu/english/faculty/mallines),
 > 8/2014-12/2014
 
 **RESEARCH POSITIONS**
@@ -63,12 +63,12 @@ Austin, Texas, 5/2015- 8/2015
 
 > • Design, develop, and animate a video game based on *The Voyage of
 > Saint Brendan* to help students in learn Anglo-Norman  
-> • Under the supervision of Doctor Lynn Ramey (Vanderbilt University)
+> • Under the supervision of [Doctor Lynn Ramey](https://my.vanderbilt.edu/lynnramey/) (Vanderbilt University)
 
 **Research Assistant**, The University of Texas at Austin, Austin,
 Texas, 5/2015-8/2015
 
-> • Research assistant to Doctor Geraldine Heng, Department of English
+> • Research assistant to [Doctor Geraldine Heng](http://liberalarts.utexas.edu/english/faculty/heng), Department of English
 
 **Freelance Translator**, Austin, Texas, 10/2014-11/2014
 
@@ -79,12 +79,12 @@ Texas, 5/2015-8/2015
 **Research Assistant**, The University of Texas at Austin, Austin,
 Texas, 6/2014-6/2015
 
-> • Research assistant to Doctor Marjorie Curry Woods, Department of
+> • Research assistant to [Doctor Marjorie Curry Woods](http://liberalarts.utexas.edu/english/faculty/woodsmc), Department of
 > English and Comparative Literature
 
 **RELATED EXPERIENCE**
 
-**Integrations Designer and Technical Writing Intern**, Sprinklr,
+**Integrations Designer and Technical Writing Intern**, [Sprinklr](https://www.sprinklr.com/),
 Austin, Texas, 1/2016-5/2015
 
 > • Worked on the product development team at Sprinklr in order to
@@ -117,14 +117,11 @@ Campbell’s Monomyth as Found in Lionhead Studios’ *Fable* *III*,” 10/2013.
 **AWARDS AND SCHOLARSHIPS**
 
 > • Outstanding TA Award, Department of English, The University of Texas
-> at Austin, 2015
-
+> at Austin, 2015  
 > • Humanities, Arts, Science, and Technology Advanced Collaboratory
 > Scholarship, 2014-2015  
-
 > • Julia Emerson Fisher Walther Fellowship, The University of Texas at
 > Austin, Department of French and Italian, 2013-2014  
-
 > • Fulbright English Teaching Assistant Grant, Luxembourg, 2013-2014
 > (alternate)
 
