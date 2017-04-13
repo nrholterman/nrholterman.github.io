@@ -22,3 +22,5 @@ Here are some blogposts, thoughts, and miscellany that hopefully give some insig
 [☛ Networks, Networks, Networks!](blogpost8.html)
 
 [☛ Everyone's A Critic](blogpost9.html)
+
+[☛ Virtual Museum of New France: A Review](blogpost10.html)
