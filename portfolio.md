@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-Here are some blogposts, thoughts, and miscellany that hopefully give some insight into my work:
+Welcome to the scriptorium. Here you will find my written thoughts and miscellany that hopefully give some insight into my work, research, and investigation of digital tools:
 
 [☛ Thinking Broadly About DH](blogpost1.html)
 
