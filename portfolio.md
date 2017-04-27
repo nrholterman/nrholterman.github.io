@@ -13,6 +13,8 @@ Welcome to the scriptorium. Here you will find my written thoughts and miscellan
 
 [☛ Here There Be Maps!](blogpost4.html)
 
+[☛ Here There Be More Maps!](blogpost4.5.html)
+
 [☛ My Review of Sagnagrunnur](blogpost5.html)
 
 [☛ Mining for Literary Gold](blogpost6.html)
