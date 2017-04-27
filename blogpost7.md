@@ -3,6 +3,7 @@ layout: default
 ---
 ### Staying on topic
 #### 16 March 2017
+##### Updated 26 April 2017 
 
 I have had a total bear of a time trying to use the command line in order to do some topic modeling. At first, and since I was working with the texts in another course of mine, I thought I would create a topic model from some translated Icelandic sagas. However, MALLET did not like that I was trying to use texts that weren't strictly English. It's likely that the names of people and places (all nouns, I guess) weren't fully translated.
 
