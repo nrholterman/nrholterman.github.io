@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Vitæ
 ---
 <div class="center-text">
-<b>Nicholas R. Holterman</b> <br/>
+<b> <a href="https://lsa.umich.edu/rll/people/current-graduate-studets/nrholt.html">Nicholas R. Holterman</a> </b> <br/>
 
 Department of Romance Languages and Literatures <br/>  
 University of Michigan <br/>
