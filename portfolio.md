@@ -9,7 +9,7 @@ Welcome to the scriptorium. Here you will find my written thoughts and miscellan
 
 [☛ Getting Digital in the Academy](blogpost2.html)
 
-[☛ Typface vs. Font: Like I Know the Difference](blogpost3.html)
+[☛ Typeface vs. Font: Like I Know the Difference](blogpost3.html)
 
 [☛ Here There Be Maps!](blogpost4.html)
 
