@@ -3,6 +3,8 @@ layout: default
 ---
 ☛ Welcome to my website designed for and inspired by [HIST 698](http://fredgibbs.net/courses/digital-methods/index.html).
 
+*Unfortunately, this site is no longer live and will not be updated again. It lives on as an archived remnant, as an repository adding to my digital footprint*
+
 This is where I'm sharing ideas, trying out new designs, and developing personal ways to incorporate digital humanities into my studies. Of course, I am a student first and a scholar second, so I wanted to claim a caveat and say that whatever appears on this site is a work in progress and is far from a polished, finished product. It is my goal to keep this website updated and current.
 
 As I continue to teach my own courses, I plan to post my syllabi here and make my page a resource for other medievalists, French teachers, and digital and gaming enthusiasts. Of course, I would love feedback on my work and on my site, so please click the icons at the bottom of the page. There, you can connect with me on LinkedIn, Twitter, and Academia.edu.
